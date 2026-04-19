@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/rushabh-singh-22b23a2bb">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-rushabh.onrender.com">
+  <a href="https://portfoliorushabh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:singh02.rushabh@gmail.com">
